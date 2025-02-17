@@ -12,8 +12,6 @@ Dot Collection: Collect white dots placed randomly on the screen.
 
 Game Over Condition: The game ends when Pacman collides with the ghost.
 
-Installation
-
 Prerequisites
 
 Python 3.x
