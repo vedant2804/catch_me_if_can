@@ -2,7 +2,7 @@
 
 This is a simple Pacman-like game built using Python and Pygame. The game features basic movement, simple AI-controlled ghosts, and dot collection mechanics.
 
-Features
+--> Features
 
 Pacman Movement: Move the Pacman using arrow keys.
 
@@ -12,13 +12,13 @@ Dot Collection: Collect white dots placed randomly on the screen.
 
 Game Over Condition: The game ends when Pacman collides with the ghost.
 
-Prerequisites
+--> Prerequisites
 
 Python 3.x
 
 Pygame
 
-Steps:-
+--> Steps:-
 
 Install dependencies:
 
@@ -28,7 +28,7 @@ Run the game:
 
 python paceman.py
 
-Controls
+--> Controls
 
 Arrow Keys: Move Pacman in different directions.
 
@@ -38,11 +38,11 @@ Avoid the ghost while collecting all dots on the screen.
 
 The game ends when Pacman collides with the ghost.
 
-Contributing
+--> Contributing
 
 Feel free to fork the repository and submit pull requests with improvements or bug fixes.
 
-Author
+--> Author
 
 Vedant Trivedi - GitHub Profile
 
